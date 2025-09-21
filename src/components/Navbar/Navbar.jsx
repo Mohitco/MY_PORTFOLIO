@@ -76,7 +76,7 @@ function Navbar() {
           {/* Social Media Icons */}
           <div className=" hidden md:flex space-x-4">
             <a
-              href=""
+              href="https://github.com/Mohitco"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-300 hover:text-[#8245ec]"
@@ -84,7 +84,7 @@ function Navbar() {
               <FaGithub size={24} />
             </a>
             <a
-              href=""
+              href="https://www.linkedin.com/in/aadarsh1501/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-300 hover:text-[#8245ec]"
@@ -134,7 +134,7 @@ z-50 rounded-lg shadow-lg"
               ))}
               <div className="flex space-x-4">
                 <a
-                  href=""
+                  href="https://github.com/Mohitco"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-300 hover:text-white hover:scale-110 transition-all duration-300 "
@@ -142,7 +142,7 @@ z-50 rounded-lg shadow-lg"
                   <FaGithub size={24} />
                 </a>
                 <a
-                  href=""
+                  href="https://www.linkedin.com/in/aadarsh1501/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-300 hover:text-white hover:scale-110 transition-all duration-300 "
