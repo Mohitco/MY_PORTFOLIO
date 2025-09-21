@@ -1,18 +1,18 @@
 // Import logos
-import html from "./assets/Frontend_logo/html.png";
-import css from "./assets/Frontend_logo/css.png";
+import html from "./assets/Frontend_logo/HTML.png";
+import css from "./assets/Frontend_logo/Css.png";
 import bootstrap from "./assets/Frontend_logo/bootstrap.png";
 import materialui from "./assets/Frontend_logo/materialui.png";
-import gsap from "./assets/Frontend_logo/gsap.png";
-import reactLogo from "./assets/Frontend_logo/react.png";
+import gsap from "./assets/Frontend_logo/GSAP.png";
+import reactLogo from "./assets/Frontend_logo/React.png";
 
-import node from "./assets/Backend_logo/node.png";
+import node from "./assets/Backend_logo/Node.png";
 import express from "./assets/Backend_logo/express.png";
 import mongodb from "./assets/Backend_logo/MongoDB.png";
 import mysql from "./assets/Backend_logo/Mysql.png";
 
 import js from "./assets/Language_logo/javascript.png";
-import python from "./assets/Language_logo/python.png";
+import python from "./assets/Language_logo/Python.png";
 import cpp from "./assets/Language_logo/C.png";
 
 import git from "./assets/Tools_logo/git.png";
